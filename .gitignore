@@ -1,0 +1,15 @@
+# challenge data and generated files (too large / not redistributable)
+student_resource/
+work/
+output/
+logs/
+*.tsv
+*.parquet
+*.zip
+*.pt
+*.safetensors
+# environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
